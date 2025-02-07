@@ -1,1 +1,1 @@
-console.log("Manimekala");
+console.log("Updated Sample");
